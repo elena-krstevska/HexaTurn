@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5ce0c4486416947d6a5a3be49d0831bd
+timeCreated: 1521113986
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RegularSprite: {fileID: 21300000, guid: 07d2cc707cf6a4392af8f36e8681723c, type: 3}
+  - VisitedSprite: {fileID: 21300000, guid: 3cc58c0fc89ad4720a105325759669d5, type: 3}
+  - TargetSprite: {fileID: 21300000, guid: 9b756ef87fd084b58888655614195c25, type: 3}
+  - EnemySprite: {fileID: 21300000, guid: 4ce93d64a61ff46f3b00cdaa90c25c78, type: 3}
+  - InvisibleSprite: {fileID: 21300000, guid: 1396336f9720c460699cf01a0ec883c4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
